@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Geometria';
+    src: url('Geometria.woff2') format('woff2'),
+        url('Geometria.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('Geometria-Heavy.woff2') format('woff2'),
+        url('Geometria-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SONGER SemiExpanded';
+    src: url('SONGERSemiExpanded-Heavy.woff2') format('woff2'),
+        url('SONGERSemiExpanded-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
